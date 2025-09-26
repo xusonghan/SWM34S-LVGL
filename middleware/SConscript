@@ -1,0 +1,12 @@
+import os
+from building import *
+
+cwd  = GetCurrentDir()
+objs = []
+
+# Include all child modules that have their own SConscript (e.g., lvgl_pm)
+for name in os.listdir(cwd):
+    if os.path.isfile(os.path.join(cwd, name, 'SConscript')):
+        objs += SConscript(os.path.join(name, 'SConscript'))
+
+Return('objs')

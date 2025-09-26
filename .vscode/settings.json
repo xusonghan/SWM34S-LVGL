@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "adc.h": "c",
+        "string": "c",
+        "lv_port_disp_template.h": "c",
+        "lv_port_indev_template.h": "c",
+        "lvgl.h": "c",
+        "rtthread.h": "c",
+        "lv_conf_kconfig.h": "c",
+        "gt9147.h": "c",
+        "algorithm": "c",
+        "board.h": "c",
+        "rtdevice.h": "c",
+        "drv_log.h": "c",
+        "drv_sdram.h": "c",
+        "cstdint": "c",
+        "swm341_sdram.h": "c",
+        "__locale": "c",
+        "string_view": "c",
+        "lv_port_disp.h": "c",
+        "lv_port_indev.h": "c",
+        "stdbool.h": "c",
+        "page2.h": "c",
+        "stdio.h": "c",
+        "page1.h": "c",
+        "anima.h": "c",
+        "pm.h": "c",
+        "system_error": "c",
+        "numbers": "c",
+        "drv_soft_i2c.h": "c"
+    }
+}

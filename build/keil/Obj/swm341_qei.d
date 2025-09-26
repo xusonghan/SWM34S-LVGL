@@ -1,0 +1,34 @@
+./build/keil/obj/swm341_qei.o: \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_qei.c \
+  build\libraries\SWM341_CSL\CMSIS\DeviceSupport\SWM341.h \
+  build\libraries\SWM341_CSL\CMSIS\CoreSupport\core_cm33.h \
+  build\libraries\SWM341_CSL\CMSIS\DeviceSupport\system_SWM341.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_port.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_gpio.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_exti.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_timr.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_uart.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_spi.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_i2c.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_adc.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_pwm.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_dma.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_can.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_sdio.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_sdram.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_flash.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_lcd.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_sfc.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_dac.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_cordic.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_crc.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_div.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_rtc.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_wdt.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_qei.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_usb.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_usbd.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_usbh.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_jpeg.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_dma2d.h \
+  build\libraries\SWM341_CSL\SWM341_StdPeriph_Driver\SWM341_iofilt.h
