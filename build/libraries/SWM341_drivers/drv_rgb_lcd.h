@@ -21,7 +21,7 @@ struct swm_rgb_lcd_device
 
 int swm_rgb_lcd_init(void);
 
-
+/* ÔËÐÐÊ±ÇÐ»»Ö¡»º³åµØÖ·£¨Ë«»º³å£© */
 int rgb_lcd_set_framebuffer(void *addr, int wait_vsync);
 
 #endif /* __DRV_RGB_LCD_H__ */
